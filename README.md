@@ -8,10 +8,10 @@ Just download the code and start the application as spring boot app. The applica
 auto configure while application start up.
 
 After application start-up, you can see the database tables through console with below link:
-http://localhost:8080/h2-console/login.jsp
+http://localhost:8085/h2-console/login.jsp
 
 Driver Class: org.h2.Driver
-JDBC URL: jdbc:h2:mem:testdb
+JDBC URL: jdbc:h2:mem:dcbapp
 User Name: sa
 Password:password
 
